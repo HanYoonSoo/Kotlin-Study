@@ -1,5 +1,5 @@
 # Kotlin-Study
-코틀린에 대해 알아보자
+코틀린을 학습해보자
 
 ![image](https://github.com/user-attachments/assets/43335e7c-1cc5-417b-85ca-e87c9f689dc8)
 

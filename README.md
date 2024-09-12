@@ -26,4 +26,3 @@
 
 ### [Kotlin] Enum Class & Data Class
 <https://hdbstn3055.tistory.com/207>
-
